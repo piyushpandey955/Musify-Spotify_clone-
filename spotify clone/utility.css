@@ -1,0 +1,77 @@
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+.bg-grey{
+    background-color: #121212;
+}
+
+.rounded{
+    border-radius: 7px;
+}
+
+.m-1{
+    margin: 5px;
+}
+
+.p-1{
+    padding: 20px;
+}
+
+body::-webkit-scrollbar {
+    width: 10px; /* Set the width of the scrollbar */
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #0d1117; /* Color of the scrollbar thumb (the draggable part) */
+}
+
+body::-webkit-scrollbar-track {
+    background-color: #1f6feb; /* Color of the scrollbar track (the non-draggable part) */
+}
+
+.songList::-webkit-scrollbar {
+    width: 10px; /* Set the width of the scrollbar */
+}
+
+.songList::-webkit-scrollbar-thumb {
+    background-color: #0d1117; /* Color of the scrollbar thumb (the draggable part) */
+}
+
+.songList::-webkit-scrollbar-track {
+    background-color: #1f6feb; /* Color of the scrollbar track (the non-draggable part) */
+}
+
+.cardContainer::-webkit-scrollbar {
+    width: 10px; /* Set the width of the scrollbar */
+}
+
+.cardContainer::-webkit-scrollbar-thumb {
+    background-color: #0d1117; /* Color of the scrollbar thumb (the draggable part) */
+}
+
+.cardContainer::-webkit-scrollbar-track {
+    background-color: #1f6feb; /* Color of the scrollbar track (the non-draggable part) */
+}
